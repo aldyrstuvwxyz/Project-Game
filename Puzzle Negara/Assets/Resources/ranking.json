@@ -1,0 +1,23 @@
+{
+    "easy": [
+        {
+            "name": "ALDY",
+            "timerDelta": 124.86424255371094
+        },
+        {
+            "name": "ALDY",
+            "timerDelta": 142.79066467285157
+        },
+        {
+            "name": "coba",
+            "timerDelta": 189.2785186767578
+        }
+    ],
+    "medium": [
+        {
+            "name": "jo",
+            "timerDelta": 219.0697784423828
+        }
+    ],
+    "hard": []
+}
